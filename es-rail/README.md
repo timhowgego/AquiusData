@@ -16,6 +16,13 @@ Renfe Operadora [GTFS extract](http://data.renfe.com/), excluding Cercanías, Fe
 * [Renfe Obligación de Servicio Público (Friday 20 July 2018)](https://timhowgego.github.io/Aquius/live/renfe-osp-20-jul-2018/)
 * [Renfe LD/MD (10-16 December 2018)](https://timhowgego.github.io/Aquius/live/renfe-ld-md-dec-2018/)
 
+## Of Interest
+
+* [Commercial from Madrid](https://timhowgego.github.io/Aquius/live/es-rail-20-jul-2018/#x-4.340/y40.564/z7/c-3.6887/k40.4365/m10/s7/vlphn/n4) - in the pre-liberalisation summertime.
+* [Teruel Existe](https://timhowgego.github.io/Aquius/live/es-rail-20-jul-2018/#x-1.439/y40.676/z7/c-1.110/k40.341/m9/s7/vlphn/n1) - and then compare that to Zaragoza.
+* [Bizkaia's Internals](https://timhowgego.github.io/Aquius/live/es-rail-20-jul-2018/#x-2.9121/y43.2857/z11/c-2.92511/k43.25733/m13/vlhn/s5) - so just where is "Spain"?
+* [OSP La Mancha](https://timhowgego.github.io/Aquius/live/es-rail-20-jul-2018/#x-3.724/y39.305/z8/c-3.69/k39.32/m6/s7/vlhnp/n3) - this state supported relationship to Madrid is insightful.
+
 ## Known Issues
 
 Services are not totally accurate: The 20 July 2018 network was research in one direction (away from Madrid), during academic holidays, and with a Cercanías journey planner that only showed origin/destination and not the stops inbetween. Likewise service totals for many city metros were calculated from average headways, so won't be perfectly accurate. Tourist-type services have been excluded. International services only within Spain. For an introduction to the dataset, see [Disassembling Trenes](https://timhowgego.wordpress.com/2018/09/04/disassembling-trenes/).
