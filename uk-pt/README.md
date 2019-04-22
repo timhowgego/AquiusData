@@ -25,7 +25,7 @@ The sample period, the first week of April 2019, was during school term time, th
 
 ## Known Issues
 
-Longer-distance services advertised as through routes may be broken into two or more route segments. Examples include Stagecoach services via Ellon, and the X5 Oxford-Cambridge. Both are quirks of the underlying Traveline data.
+Longer-distance services advertised as through routes may be broken into two or more route segments. Examples include many longer distance Stagecoach services, such as those via Ellon, X5 Oxford-Cambridge, and Bude-Barnstaple. These are quirks of the underlying Traveline data, perhaps intended to allow services to be allocated within local government boundaries, but actually making such through journey opportunities invisible to many intending travellers: Both Google and Traveline journey planners currently fail to find through journeys, since the link between fragmented routes cannot be reliably established without specific local knowledge.
 
 Services across regional borders may be double counted. The underlying data is sourced regionally, and while inter-regional services are theoretically assigned to just one regional dataset, in practice a few services were found to be duplicated in both sources - mostly from the north of England. Known errors have been corrected, but it is entirely likely that a few duplicates are still lurking.
 
