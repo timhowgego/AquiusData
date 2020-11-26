@@ -26,6 +26,8 @@ Population is that [estimated in mid-2017](https://www.ons.gov.uk/peoplepopulati
 
 * [GB by Ward (2019)](https://timhowgego.github.io/Aquius/live/gb-pt-ward-2019/)
 * [GB by District (2019)](https://timhowgego.github.io/Aquius/live/gb-pt-district-2019/)
+* [GB by Traditional County (2019)](https://timhowgego.github.io/Aquius/live/gb-pt-county-2019/)
+* [GB by Region/Nation (2019)](https://timhowgego.github.io/Aquius/live/gb-pt-region-2019/)
 
 ## Known Issues
 
