@@ -18,13 +18,15 @@ Groups are based on Traveline's NOC database, ammended for known errors. Join ve
 
 The sample period, the first week of April 2019, was during school term time, the week immediately before the Easter holidays. The period excluded summer-only routes and some university services, but is otherwise "typical".
 
-Population is that [estimated in mid-2017](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/wardlevelmidyearpopulationestimatesexperimental). Traveline archives have been processed using [transxchange2gtfs](https://github.com/planarnetwork/transxchange2gtfs).
+Population is that [estimated in mid-2017](https://www.ons.gov.uk/peoplepopulationandcommunity/populationandmigration/populationestimates/datasets/wardlevelmidyearpopulationestimatesexperimental), or mid-2019 for 2020 and 2021 data. Traveline archives have been processed using [transxchange2gtfs](https://github.com/planarnetwork/transxchange2gtfs).
 
-**Caution:** Long after April 2019 this network snapshot is likely to look _similar_ to some future network. However, such a snapshot should not be used if current accuracy is important. The snapshot should not be used to plan an actual journey. And certainly not without checking the results against current operator/agency publicity.
+**Caution:** Long after the creation data these network snapshots are likely to look _similar_ to some future network. However, such a snapshot should not be used if current accuracy is important. The snapshot should not be used to plan an actual journey. And certainly not without checking the results against current operator/agency publicity.
 
 ## Live Demonstrations
 
 * [GB by Ward (2019)](https://timhowgego.github.io/Aquius/live/gb-pt-ward-2019/)
+* [GB by Ward (2020)](https://timhowgego.github.io/Aquius/live/gb-pt-ward-2020/)
+* [GB by Ward (2021)](https://timhowgego.github.io/Aquius/live/gb-pt-ward-2021/)
 * [GB by District (2019)](https://timhowgego.github.io/Aquius/live/gb-pt-district-2019/)
 * [GB by Traditional County (2019)](https://timhowgego.github.io/Aquius/live/gb-pt-county-2019/)
 * [GB by Region/Nation (2019)](https://timhowgego.github.io/Aquius/live/gb-pt-region-2019/)
